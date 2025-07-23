@@ -7,7 +7,7 @@ A conversational AI agent that retrieves detailed geolocation information for IP
 
 | GitHub | BBC UK |
 |----------------|---------------|
-| <img src="public/assistant-github.png" width="300"> | <img src="public/assistant-uk.png" width="300"> |
+| <img src="public/assistant-github.png" width="800"> | <img src="public/assistant-uk.png" width="800"> |
 
 ## Features ✨
 - 🗺️ Real-time IP geolocation lookup
